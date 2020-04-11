@@ -4,5 +4,8 @@ pizza
 pasta
 chicken fried
 
+beans
+kheer
+
 
 thank you
